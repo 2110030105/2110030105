@@ -1,11 +1,17 @@
 <h1 align="center">Hi 👋, I'm SAIREEN!</h1>
 <h3 align="center">A passionate Software Engineer developer from India</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=2110030105&label=Profile%20views&color=0e75b6&style=flat" alt="2110030105" /> </p>
+
 - 🌱 I’m currently learning **Java, python**
 
 - 👨‍💻 All of my projects are available at [https://shireenshaikk.netlify.app/](https://shireenshaikk.netlify.app/)
 
+- 💬 Ask me about **React, javaScript**
+
 - 📫 How to reach me **2110030105@klh.edu.in**
+
+- 📄 Know about my experiences [https://saireen-resume.tiiny.site/](https://saireen-resume.tiiny.site/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
