@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **2110030105cse@gmail.com**
 
-- 📄 Know about my experiences: [Resume](https://saireen-resume.tiiny.site/)
+- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1JkHju92ZgqJxQZiTZEo4GAcZkIsVrRUy/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
