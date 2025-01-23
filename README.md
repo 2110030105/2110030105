@@ -5,13 +5,11 @@
 
 - 🌱 I’m currently learning **Java, python**
 
-- 👨‍💻 All of my projects are available at [https://shireenshaikk.netlify.app/](https://shireenshaikk.netlify.app/)
-
 - 💬 Ask me about **React, javaScript**
 
-- 📫 How to reach me **2110030105@klh.edu.in**
+- 📫 How to reach me **2110030105cse@gmail.com**
 
-- 📄 Know about my experiences [https://saireen-resume.tiiny.site/](https://saireen-resume.tiiny.site/)
+- 📄 Know about my experiences [[https://saireen-resume.tiiny.site/](https://drive.google.com/file/d/1Jh_xcZbUaezWFGQjUEa9WTgP5hi63lsN/view?usp=sharing)]([https://saireen-resume.tiiny.site/](https://drive.google.com/file/d/1Jh_xcZbUaezWFGQjUEa9WTgP5hi63lsN/view?usp=sharing))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
